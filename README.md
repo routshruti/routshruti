@@ -4,7 +4,7 @@ With master's in Analytical and Applied Economics, I have built a strong foundat
 ## What I Do:
 - Continuously learning data analysis tools such as Excel, SQL, Power BI, and Python.
 - Working on personal projects to apply and showcase my data analysis skills.
-- Key skills: Data Cleaning, Data Visualization, Dashboarding/Report, SQL, Power Query, Dax, Pivot Tables, Forecasting, ETL (Extract, Transform, Load), Communication skills, Attention to detail, Ability to prioritize tasks.
+- Key skills: Data Cleaning, Data Visualization, Dashboarding/Reporting, SQL, Power Query, Dax, Pivot Tables, Forecasting, ETL (Extract, Transform, Load), Communication skills, Attention to detail, Ability to prioritize tasks.
 
 Check out my projects on Github!
 <!---
